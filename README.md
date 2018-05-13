@@ -2,7 +2,7 @@
 
 Based on: Pentagon - 100% Fully Responsive Free HTML5 Bootstrap Template
 
-Demo: [x](x)
+Demo: [https://argenisosorio.github.io/bootstrap-beauty-template-pentagon/](https://argenisosorio.github.io/bootstrap-beauty-template-pentagon/)
 
 ## Captures
 
